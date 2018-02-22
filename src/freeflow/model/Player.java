@@ -1,6 +1,4 @@
-package freeFlow.model;
-
-import java.util.List;
+package freeflow.model;
 
 /**
  * @author Arjan Tammer

@@ -1,7 +1,4 @@
-package freeFlow.model;
-
-import freeFlow.view.GraphicGameView;
-import javafx.scene.canvas.GraphicsContext;
+package freeflow.model;
 
 /**
  * @author Arjan Tammer

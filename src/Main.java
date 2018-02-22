@@ -1,10 +1,10 @@
 package Main;
 
-import freeFlow.model.Game;
-import freeFlow.model.Level;
-import freeFlow.model.Player;
-import freeFlow.view.GraphicGamePresenter;
-import freeFlow.view.GraphicGameView;
+import freeflow.model.Game;
+import freeflow.model.Level;
+import freeflow.model.Player;
+import freeflow.view.GraphicGamePresenter;
+import freeflow.view.GraphicGameView;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;

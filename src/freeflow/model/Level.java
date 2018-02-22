@@ -1,4 +1,4 @@
-package freeFlow.model;
+package freeflow.model;
 
 import java.util.ArrayList;
 import java.util.List;

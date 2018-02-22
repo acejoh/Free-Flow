@@ -1,4 +1,4 @@
-package freeFlow.view;
+package freeflow.view;
 
 
 

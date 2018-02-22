@@ -1,18 +1,10 @@
-package freeFlow.view;
+package freeflow.view;
 
-import freeFlow.model.Colour;
-import freeFlow.model.Dot;
-import freeFlow.model.Level;
+import freeflow.model.Dot;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.layout.BorderPane;
-import javafx.scene.layout.ColumnConstraints;
-import javafx.scene.layout.GridPane;
-import javafx.scene.layout.RowConstraints;
 import javafx.scene.paint.Color;
-
-import java.util.HashMap;
-import java.util.Map;
 
 /**
  * @author Arjan Tammer

@@ -1,4 +1,4 @@
-package freeFlow.model;
+package freeflow.model;
 
 public abstract class Drawable {
 

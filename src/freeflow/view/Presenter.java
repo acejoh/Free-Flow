@@ -1,6 +1,6 @@
-package freeFlow.view;
+package freeflow.view;
 
-import freeFlow.model.Game;
+import freeflow.model.Game;
 
 /**
  * @author Arjan Tammer

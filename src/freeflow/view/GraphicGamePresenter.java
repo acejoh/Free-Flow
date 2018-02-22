@@ -1,7 +1,7 @@
-package freeFlow.view;
+package freeflow.view;
 
-import freeFlow.model.Dot;
-import freeFlow.model.Game;
+import freeflow.model.Dot;
+import freeflow.model.Game;
 
 /**
  * @author Arjan Tammer
